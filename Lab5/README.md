@@ -1,19 +1,16 @@
 \# Lab 5: Static Code Analysis
 
-\## GitHub Repository
+## Original Repository
 
+This assignment was provided by SETAPESU26. The original repository is available here:
 
+https://github.com/SETAPESU26/L5_36_smart_home
 
-\*\*Personal Repository:\*\* https://github.com/nnivedithaparmesh-cpu/L5\_36\_smart\_home
+## My Fork
 
+My fork containing the corrected code and static analysis reports:
 
-
-\*\*Lab Submission Repository:\*\* https://github.com/nnivedithaparmesh-cpu/SE-lab-PES1UG24CS585
-
-
-
-\*\*Lab 5 Folder:\*\* https://github.com/nnivedithaparmesh-cpu/SE-lab-PES1UG24CS585/tree/main/Lab5
-
+https://github.com/nnivedithaparmesh-cpu/L5_36_smart_home
 
 
 \## Objective
