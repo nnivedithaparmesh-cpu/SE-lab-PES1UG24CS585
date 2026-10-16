@@ -1,5 +1,19 @@
 \# Lab 5: Static Code Analysis
 
+\## GitHub Repository
+
+
+
+\*\*Personal Repository:\*\* https://github.com/nnivedithaparmesh-cpu/L5\_36\_smart\_home
+
+
+
+\*\*Lab Submission Repository:\*\* https://github.com/nnivedithaparmesh-cpu/SE-lab-PES1UG24CS585
+
+
+
+\*\*Lab 5 Folder:\*\* https://github.com/nnivedithaparmesh-cpu/SE-lab-PES1UG24CS585/tree/main/Lab5
+
 
 
 \## Objective
